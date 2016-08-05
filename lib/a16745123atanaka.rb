@@ -12,9 +12,4 @@ def fb(n)
 	end
 end
 
-i= 1
-while i<=10000000
-	puts i,fb(i)
-	i= i+1
-end
 
